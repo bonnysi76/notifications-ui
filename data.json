@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Sign new contract",
+    "message": "Review and sign contract same lee - product designer",
+    "read": false
+  },
+  {
+    "id": 2,
+    "title": "Complete onboarding tasks",
+    "message": "Fill out your profile and upload necessary documents.",
+    "read": false
+  },
+  {
+    "id": 3,
+    "title": "New comment on your post",
+    "message": "Alex commented: 'Great insights, thanks for sharing!'",
+    "read": true
+  },
+  {
+    "id": 4,
+    "title": "System update available",
+    "message": "Version 3.2.1 is ready to install. Click to update now.",
+    "read": false
+  }
+]
